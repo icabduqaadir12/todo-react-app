@@ -3,7 +3,7 @@
 A simple and responsive Todo List app built using **React**. Add, edit, delete, and complete tasks — with data saved in your browser using `localStorage`.
 
 ## 🌐 Live Demo
-🔗 [View the App on Vercel](https://todo-app-byhilowle-8pi5j6lhi-abdukadir-hilowles-projects.vercel.app)
+🔗 [View the App on Vercel](https://todo-react-app-henna-five.vercel.app/)
 
 ## ✨ Features
 
